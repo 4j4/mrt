@@ -1,1 +1,15 @@
+{spell:466093}Haywire -> Drain the Amplifiers before reaching 100
+{spell:1217120}Lingering Voltage -> Debuff 45s, stacking
+{spell:466961}Faulty Zap (blue circle) -> Spread
+{spell:468119}Resonant Echoes (white circles) -> Dodge
+{spell:465795}Noise pollution -> Stacking rot damage with each Amp
 
+- Range+Healer stack on second row to bait one Amp
+
+### Phase 1 - Party Starter ###
+{time:0}{spell:2825}{spell:32182}{spell:80353}Bloodlust / Heroism / Time Warp
+
+### Intermission - Hype Hustle ###
+{time:0,p2}{spell:466722}Blowout! -> Stack on Amplifiers
+{time:5,p2}{spell:192077}Wind Rush Totem - |cff0070ddShaman|r
+{time:5,p2}{spell:106898}Stampeding Roar - |cffff7c0aDruid|r
