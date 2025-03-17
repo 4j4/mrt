@@ -1,15 +1,19 @@
-{spell:466093}Haywire -> Drain the Amplifiers before reaching 100
+### Mechanics ###
+
 {spell:1217120}Lingering Voltage -> Debuff 45s, stacking
 {spell:466961}Faulty Zap (blue circle) -> Spread
 {spell:468119}Resonant Echoes (white circles) -> Dodge
-{spell:465795}Noise pollution -> Stacking rot damage with each Amp
-
+{H}{spell:465795}Noise pollution -> Stacking rot damage with each Amp{/H}
+{D}{spell:472306}Sparkblast Ignition -> KILL BARRELS PRIORITY{/D}
+{spell:466722}Blowout! -> Stack on Amplifiers
+- Drain the Amplifiers before reaching 100
 - Range+Healer stack on second row to bait one Amp
 
 ### Phase 1 - Party Starter ###
-{time:0}{spell:2825}{spell:32182}{spell:80353}Bloodlust / Heroism / Time Warp
+{time:0:03}{spell:32182}Heroism
 
 ### Intermission - Hype Hustle ###
-{time:0,p2}{spell:466722}Blowout! -> Stack on Amplifiers
-{time:5,p2}{spell:192077}Wind Rush Totem - |cff0070ddShaman|r
-{time:5,p2}{spell:106898}Stampeding Roar - |cffff7c0aDruid|r
+{time:0:00,SCS:466722:1}Blowout 1 -> {spell:192077}Wind Rush Totem {spell:97462}Rallying Cry
+{time:0:00,SCS:466722:2}Blowout 2 -> {spell:106898}Stampeding Roar Personals if necessary
+{time:0:00,SCS:466722:3}Blowout 3 -> {spell:106898}Stampeding Roar {spell:98008}Spirit Link
+{time:0:00,SCS:466722:4}Blowout 4 -> {spell:51052}Anti Magic Zone
