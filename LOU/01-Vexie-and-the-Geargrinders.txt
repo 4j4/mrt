@@ -1,0 +1,13 @@
+### Normal Phase ###
+- Stay in front of the boss
+- {spell:468487}|cffff0000Incendiary Fire|r  -> clean up oil. Preferred in the middle
+- {spell:459671}|cffff00ffSpill Oil|r -> Drop in the middle
+
+### Intermission - Dmg phase ###
+{time:0,SAA:460116:1}1:33{spell:460116}Pit Stop - Break Down
+{time:2,SAA:460116:1}{spell:2825}{spell:32182}{spell:80353}BIG DAM!!!
+
+{time:0:05,SAA:460116:1}0:06{spell:98008}Spirit Link - |cff0070ddShaman|r
+{time:0:05,SAA:460116:1}0:12{spell:15286}Vampiric Embrace - |cffffffffShadow Priest|r
+{time:0:11,SAA:460116:1}0:05{spell:740}Tranquility - |cffff7c0aDruid|r
+{time:0:16,SAA:460116:1}0:10{spell:97462}Rallying Cry - |cffc69b6dWarrior|r
