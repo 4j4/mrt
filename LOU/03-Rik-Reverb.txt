@@ -2,7 +2,7 @@
 {spell:1217120}|cff0000ffLingering Voltage|r -> Debuff 45s, stacking
 {spell:466961}|cff00ffffFaulty Zap|r (blue circle) -> Spread
 {spell:468119}|cffffffffResonant Echoes|r (white circles) -> Dodge
-{H}{spell:465795}|cffff0000Noise pollution -> Increasing rot damage with each Amp|r{/H}{D}{spell:472306}|cffff0000Sparkblast Ignition -> KILL BARRELS PRIORITY|r{/D}
+{H}{spell:465795}|cffff0000Noise pollution -> Increasing rot damage with each Amp|r{/H}{D}{spell:472306}|cffff0000Sparkblast Ignition -> KILL BARRELS PRIORITY|r{/D}{T}|cffff0000Keep the BOSS 15yrds away from Amps|r{/T}
 {spell:466722}Blowout! -> Stack on Amplifiers
 - Drain the Amplifiers before reaching 100
 - Range+Healer stack on second row to bait one Amp
