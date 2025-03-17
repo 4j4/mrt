@@ -3,9 +3,11 @@
 {spell:32182}Heroism - |cff0070ddShaman|r
 {spell:98008}Spirit Link - |cff0070ddShaman|r
   
-{spell:80353}Time Warp - |cffMage|r
+{spell:80353}Time Warp - Mage
   
 {spell:106898}Stampeding Roar - |cffff7c0aDruid|r
 {spell:740}Tranquility - |cffff7c0aDruid|r
 
 {spell:97462}Rallying Cry - |cffc69b6dWarrior|r
+
+{spell:51052}Anti Magic Zone - Death Knight
