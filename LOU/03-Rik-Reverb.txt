@@ -1,10 +1,8 @@
 ### Mechanics ###
-
 {spell:1217120}Lingering Voltage -> Debuff 45s, stacking
 {spell:466961}Faulty Zap (blue circle) -> Spread
 {spell:468119}Resonant Echoes (white circles) -> Dodge
-{H}{spell:465795}Noise pollution -> Stacking rot damage with each Amp{/H}
-{D}{spell:472306}Sparkblast Ignition -> KILL BARRELS PRIORITY{/D}
+{H}{spell:465795}Noise pollution -> Stacking rot damage with each Amp{/H}{D}{spell:472306}Sparkblast Ignition -> KILL BARRELS PRIORITY{/D}
 {spell:466722}Blowout! -> Stack on Amplifiers
 - Drain the Amplifiers before reaching 100
 - Range+Healer stack on second row to bait one Amp
