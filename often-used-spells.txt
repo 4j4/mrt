@@ -1,13 +1,20 @@
-{spell:192077}Wind Rush Totem - |cff0070ddShaman|r
-{spell:2825}Blood Lust - |cff0070ddShaman|r
-{spell:32182}Heroism - |cff0070ddShaman|r
-{spell:98008}Spirit Link - |cff0070ddShaman|r
-  
-{spell:80353}Time Warp - Mage
-  
-{spell:106898}Stampeding Roar - |cffff7c0aDruid|r
-{spell:740}Tranquility - |cffff7c0aDruid|r
+Format is <spell> - duration - cool down - additional note
 
-{spell:97462}Rallying Cry - |cffc69b6dWarrior|r
+Shaman
+{spell:192077}Wind Rush Totem - 0:15 - 2:00
+{spell:2825}Blood Lust - 0:40 - 5:00 - 10:00 debuff
+{spell:32182}Heroism - 0:40 - 5:00 - 10:00 debuff
+{spell:98008}Spirit Link - 0:06 - 3:00
 
-{spell:51052}Anti Magic Zone - Death Knight
+Mage
+{spell:80353}Time Warp - 0:40 - 5:00 - 10:00 debuff
+
+Druid
+{spell:106898}Stampeding Roar - 0:08 - 2:00 - Only 10yrds range
+{spell:740}Tranquility - 0:05 - 3:00 - Channeled
+
+Warrior
+{spell:97462}Rallying Cry - 0:10 - 3:00
+
+Death Knight
+{spell:51052}Anti Magic Zone - 0:08 - 2:00
