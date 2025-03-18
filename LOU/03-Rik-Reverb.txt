@@ -11,7 +11,7 @@
 {time:0:03}{spell:32182}Heroism
 
 ### Intermission - Hype Hustle ###
-{time:0:00,SCS:466722:1}Blowout 1 -> {spell:192077}Wind Rush Totem {spell:97462}Rallying Cry
-{time:0:00,SCS:466722:2}Blowout 2 -> {spell:106898}Stampeding Roar Personals if necessary
-{time:0:00,SCS:466722:3}Blowout 3 -> {spell:106898}Stampeding Roar {spell:98008}Spirit Link
-{time:0:00,SCS:466722:4}Blowout 4 -> {spell:51052}Anti Magic Zone
+{time:0:00,SCS:467991:1}Blaring Drop 1 -> {spell:192077}Wind Rush Totem {spell:97462}Rallying Cry
+{time:0:00,SCS:467991:2}Blaring Drop 2 -> {spell:106898}Stampeding Roar Personals if necessary
+{time:0:00,SCS:467991:3}Blaring Drop 3 -> {spell:106898}Stampeding Roar {spell:98008}Spirit Link
+{time:0:00,SCS:467991:4}Blaring Drop 4 -> {spell:51052}Anti Magic Zone
