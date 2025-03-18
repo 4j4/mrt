@@ -1,1 +1,6 @@
-
+- Interrupt {spell:1219384}Scrap Rockets on |cffffff00Scrapmasters|r and kill quickly
+- Kill |cffffff00Hyenas|r quickly to remove disease (Healing reduction)
+- Damage |cffffff00Bombshells|r below 80% and then kill quickly
+- DO NOT HIT |cffffff00Bombshells|r with rolling ball
+- You can roll over |cffffff00Hyenas|r (small) and |cffffff00Scrapmasters|r (medium)
+- {spell:464149}Incinerator -> Spread and avoid {spell:464854}Garbage piles
