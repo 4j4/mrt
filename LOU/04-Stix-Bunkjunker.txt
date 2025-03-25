@@ -1,12 +1,7 @@
-- Interrupt {spell:1219384}Scrap Rockets on |cffffff00Scrapmasters|r and kill quickly
-- Kill |cffffff00Hyenas|r quickly to remove disease (Healing reduction)
-- Damage |cffffff00Bombshells|r below 80% and then kill quickly
-- DO NOT HIT |cffffff00Bombshells|r with rolling ball
-- You can roll over |cffffff00Hyenas|r (small) and |cffffff00Scrapmasters|r (medium)
-- {spell:464149}Incinerator -> Spread and avoid {spell:464854}Garbage piles
-- Hero: on pull
+Stix Bunkjunker
 
 ### Full Energy - Electromagnetic Sorting ###
+Raid cooldown rotation:
 {time:0:19}ES 1 -> {spell:98008} Spirit Link (Nikaia)
 {time:1:10}ES 2 -> {spell:64843} Divine Hymn + Halo (Jaeyn)
 {time:2:24}ES 3 -> {spell:97462} Rallying Cry (Donbobr) - {spell:740} Tranquility (Amazonite)
@@ -15,3 +10,19 @@
 {time:4:57}ES 6 -> {spell:64843} Divine Hymn + Halo (Jaeyn)
 {time:5:47}ES 7 -> {spell:97462} Rallying Cry (Donbobr) - {spell:740} Tranquility (Amazonite)
 {time:6:40}ES 8 -> {spell:97462} Rallying Cry (Greshem) - {spell:} Healing Tide Totem (Nikaia)
+
+### Adds - Priority ###
+- Damage |cffffff00Bombshells|r below 80% and then kill quickly
+- Interrupt {spell:1219384}Scrap Rockets on |cffffff00Scrapmasters|r and kill quickly {moon}{square}{cross}{skull}
+- Kill |cffffff00Hyenas|r quickly to remove disease (Healing reduction)
+
+### Rolling Ball ### {star}{circle}{diamond}{triangle}
+- DO NOT HIT |cffffff00Bombshells|r with rolling ball
+- You can roll over |cffffff00Hyenas|r (small) and |cffffff00Scrapmasters|r (medium)
+- One ball (callout) will focus on rolling up |cffffff00Hyenas|r and |cffffff00Scrapmasters|r
+- Other balls will roll towards their world marker. Get BIG and destroy the BIG bomb that has the red timer.
+- No more BIG bombs left? Roll into the boss.
+
+### Other Mechanics ###
+- {spell:464149}Incinerator -> Spread and avoid {spell:464854}Garbage piles
+- Hero: on pull
