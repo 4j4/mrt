@@ -1,16 +1,16 @@
 ### Group setup ###
-Group 1 + 3 -> |cffff0000Flarendo|r
-Group 2 + 4 -> |cff00ffffTorq|r
+ODDS  Group 1 3 5 -> |cffff0000Flarendo|r
+EVENS Group 2 4 6 -> |cff00ffffTorq|r
 
 ### |cffff0000Flarendo|r ###
+- Stack on the boss and move clockwise along the edge to bait the Soak
 - {spell:473650}|cffff0000Scrapbomb|r -> Soak
 - {spell:472233}Blastburn Roarcannon -> Move away and move out before the cast finished
-- {spell:1213690}Molten Phlegm -> Spread, use personals
-- Move clockwise
+- {spell:1213690}Molten Phlegm -> Spread, use personals then stack up again.
 
 ### |cff00ffffTorq|r ###
 - {spell:473951}Static Charge -> Do NOT move unless necessary
-- {spell:1213994}Voltaic Image -> Stun CC
+- {spell:1213994}Voltaic Image -> Stun CC - DO NOT TOUCH
 
 ### BL On Pull ###
 {time:0}{spell:2825}{spell:32182}{spell:80353}BIG DAM!!!
